@@ -1,6 +1,6 @@
 ## Hello world! 👋
 
-I’m **Dominique Cominguez**, welcome to my GitHub profile! 🚀  
+I’m **Dominique Cominguez**, welcome to my GitHub profile! 
 
 ### 👨‍💻 About Me
 - 🎓 4th year student at **MSU-IIT**  

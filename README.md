@@ -28,9 +28,9 @@ I’m **Dominique Cominguez**, welcome to my GitHub profile!
 ---
 
 ### 🌱 Currently Learning
-- 🌐 Computer Networking Fundamentals – OSI Model, TCP/IP, Routing, Switching  
-- 🛠 Network Configuration & Management – Cisco Packet Tracer, Wireshark  
-- 🔒 Network Security Essentials – firewalls, VPNs, intrusion detection  
+- 🌐 Computer Networking Fundamentals  
+- 🛠 Network Configuration & Management   
+- 🔒 Network Security Essentials 
 
 ---
 

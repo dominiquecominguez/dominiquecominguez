@@ -1,13 +1,19 @@
 ## Hello world! 👋
 
-I’m **Dominique Anne Cominguez!**
+I’m **Dominique Anne Cominguez!**  
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFvNGN3N2V6ZWNkbzJvMnBteTFpMTJrdmdmOG95YXppYWxkZG85NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1x0Te26OsnrRw7rlo2/giphy.gif" width="300" alt="Kawaii gif" />
+</p>
+
 
 ### 👨‍💻 About Me
 - 🎓 4th year student at **MSU-IIT**  
 - 📚 Taking up **BS Information Technology**, major in **Network Systems**  
-- ⚡ Fun fact: I love pink!  
+- ⚡ Fun fact: I love pink!
 
 ---
+
 
 ### 📫 Reach Me
 <p align="left">
@@ -33,15 +39,6 @@ I’m **Dominique Anne Cominguez!**
 - 🔒 Network Security Essentials 
 
 ---
-
-### 🛠 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
 
 ---
 
